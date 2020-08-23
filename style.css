@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bree+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+.navbar-brand {
+    font-family: 'Abril Fatface', cursive;
+}
+
+.container h1 {
+    margin: 2%;
+    font-family: 'Bree Serif', serif;
+}
+
+.row {
+    font-family: 'Bree Serif', serif;
+}
+
+.container {
+    font-family: 'Bree Serif', serif;
+}
+
+.btn-outline-primary {
+    font-family: 'Abril Fatface', cursive;
+}
